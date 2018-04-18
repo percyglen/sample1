@@ -1,2 +1,3 @@
 # sample1
 exploring git hub
+i am exploring this soft ware....
